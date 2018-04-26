@@ -1,4 +1,4 @@
 <status>    
-    <message>Services Out</message>
-    <priority>High</priority>
+    <message>Services Slow</message>
+    <priority>Low</priority>
 </status>
