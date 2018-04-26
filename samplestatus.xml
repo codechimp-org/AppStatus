@@ -1,6 +1,4 @@
-<AppStatus>
-    <status>
-        <message>Services Out</message>
-        <priority>High</priority>
-    </status>
+<AppStatus>    
+    <message>Services Out</message>
+    <priority>High</priority>
 </AppStatus>
