@@ -23,7 +23,7 @@ repositories {
 And add the library to your module **build.gradle**:
 ```Gradle
 dependencies {
-    implementation 'com.github.codechimp-org:AppStatus:1.0.1'
+    implementation 'com.github.codechimp-org:AppStatus:1.0.2'
 }
 ```
 
