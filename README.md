@@ -51,6 +51,25 @@ appStatus.start();
 
 See the sample app for a larger example using the SnackBar.
 
+## Status Files
+Status files can either be JSON or XML.  Message and Priority are both string values and the library does not do anything intelligent with them so can be set/interpreted however you want within your application.
+
+##### status.json
+```JSON
+{
+  "message": "Services Out",
+  "priority": "High"
+}
+```
+
+##### status.xml
+```XML
+<status>    
+    <message>Services Slow</message>
+    <priority>Low</priority>
+</status>
+```
+
 ## License
 	Copyright 2018 CodeChimp
 	
